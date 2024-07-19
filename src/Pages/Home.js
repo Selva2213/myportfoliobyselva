@@ -47,9 +47,7 @@ const Home = () => {
             />
           </div>
           
-              <FaInstagram   data-aos="fade-up"
-              data-aos-delay="200" />
-            </a>
+              
             <a
               className="link"
               href="https://www.linkedin.com/in/selvakumar-selvaraj-b812a326a/"
