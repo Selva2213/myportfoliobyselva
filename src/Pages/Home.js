@@ -46,26 +46,7 @@ const Home = () => {
               multiTextLoop
             />
           </div>
-          <div className="social">
-            <a
-              className="link"
-              href="https://www.facebook.com/narender.singhbisht.3538"
-              rel="noreferrer"
-              target="_blank"
-              aria-label="facebook"
-             
-            >
-              <FaFacebook data-aos="fade-up"
-              data-aos-delay="100"/>
-            </a>
-            <a
-              className="link"
-              href="https://www.instagram.com/selvakumar_selvaraj__/?hl=en"
-              rel="noreferrer"
-              target="_blank"
-              aria-label="instagram"
-            
-            >
+          
               <FaInstagram   data-aos="fade-up"
               data-aos-delay="200" />
             </a>
